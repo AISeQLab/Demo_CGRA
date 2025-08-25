@@ -1,0 +1,4 @@
+`define LDM_DEPTH 32
+`define CTX_RC_DEPTH 1184
+`define CTX_PE_DEPTH 1184
+`define CTX_IM_DEPTH 1184
